@@ -1,3 +1,3 @@
-Anasse HASSALA
-Remi Di Valentin
-Alexandre Mao
+Anasse HASSALA		anasse.hassala@telecom-sudparis.eu
+Remi Di Valentin	remi.di_valentin@telecom-sudparis.eu
+Alexandre Mao		alexandre.mao@telecom-sudparis.eu
