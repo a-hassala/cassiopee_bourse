@@ -5,7 +5,7 @@
 
 **Licence**
 
-Le code source ainsi que l'ensemble des ressource sont disponibles en accord avec le licence GPL(v3) (consulter le document Licence).
+Le code source ainsi que l'ensemble des ressource sont disponibles en accord avec le licence LGPL(v3) (consulter le document Licence).
 
 
 **Contribution**
