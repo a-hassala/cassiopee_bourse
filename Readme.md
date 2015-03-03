@@ -1,17 +1,19 @@
-**Projet Cassiopée 2015**
+#Projet Cassiopée 2015
 
-*Objectif* :
-	Le but de ce projet est la création d'une application web permettant de gérer et de consulter l'ensemble des bourses accessibles aux étudiants et étudiants en échanges entrants et sortants de Télécom SudParis.
+##Objectif
 
-**Licence**
+Le but de ce projet est la création d'une application
+web permettant de gérer et de consulter l'ensemble des bourses accessibles aux étudiants et étudiants en échanges entrants et sortants de Télécom SudParis.
+
+##Licence
 
 Le code source ainsi que l'ensemble des ressource sont disponibles en accord avec le licence LGPL(v3) (consulter le document Licence).
 
 
-**Contribution**
+##Contribution
 
 Any pull-request welcom.
 
-**Contacts**
+##Contacts
 
 Consulter la liste des contributeurs.
