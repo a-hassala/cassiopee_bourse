@@ -1,0 +1,11 @@
+tsp_bourse_homepage:
+    path:   /
+    defaults: { _controller: TSPBourseBundle:Bourse:index }
+
+tsp_bourse_view:
+    path:   /view/{id}
+    defaults: { _controller: TSPBourseBundle:Bourse:index }
+
+tsp_bourse_admin:
+    path:   /admin
+    defaults: { _controller: TSPBourseBundle:Bourse:admin}
